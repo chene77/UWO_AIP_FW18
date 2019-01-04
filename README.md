@@ -15,3 +15,5 @@ This repository contains the course material for the Advanced Image Processing a
 Digital image processing has various applications ranging from remote sensing and entertainment to medical applications. This course explores a few major areas of digital image processing at an advanced level, with primary emphasis on medical applications. Topics covered include image representation, image segmentation, image registration, validation of image processing algorithms, and image processing using the Insight toolkit (ITK/SimpleITK) and Jupter Notebook. Examples will be presented to give the students exposure to real work applications.
 
 Elvis Chen, PhD, LL echen29@uwo.ca
+
+2019.01.04
