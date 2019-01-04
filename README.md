@@ -6,4 +6,4 @@ This repository contains the course material for the Advanced Image Processing c
 
 ECE 4438B ECE 9020B ECE 9022 BIOMED 9519B BIOPHYS 9519B CAMI 9519B
 
-Elvis Chen, PhD, LL chene@robarts.ca
+Elvis Chen, PhD, LL echen29@uwo.ca
