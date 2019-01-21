@@ -1,0 +1,1 @@
+MRI of a head, used as an example of a gray-scale volumetric data.

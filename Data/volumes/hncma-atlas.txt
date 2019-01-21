@@ -1,0 +1,4 @@
+Initially could be obtained using the fdata command:
+fdata("nac-hncma-atlas2013-Slicer4Version/Data/hncma-atlas.nrrd")
+
+but NIH is down for the moment
