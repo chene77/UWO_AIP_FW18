@@ -743,7 +743,6 @@ class ROIDataAquisition(object):
             self.update_display()
 
 
-
 class PairedPointDataManipulation(object):
     '''
     This class provides a GUI for paired point creation, to illustrate the use of the
